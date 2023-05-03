@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-cs151-module-7-inheritance-access-modifiers
+<br>
+### Homework#### Project 1Write a class **PString** that is derived from the **STL** string class. The**PString** class should add a member function which determines whether thestring is a palindrome.#### Project 2Write a class named **EncryptableString** that is derived from the **STL** stringclass. The **EncryptableString** class adds a member function which encrypts thestring contained in the object by replacing each letter with its successor inthe ASCII ordering.
+
+Assume that the only characters to be encrypted in an **EncryptableString**object are letters (a → z and A → Z), and numbers (0 → 9), and that thesuccessor of ‘z’ is ‘a’, the successor of ‘Z’ is ‘A’, and the successor of ‘9’is ‘0’. Other characters should not be encrypted, such as spaces andpunctuation.### Lab#### Project 1Complete the People At MCC classes#### Project 2Write classes representing animals, birds, and dogs
